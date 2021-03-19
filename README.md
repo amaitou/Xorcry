@@ -17,7 +17,7 @@ there are a lot of cryptography algorithms you can use to make ransomware but I'
 I'll assume that you have a background about Logic gates and what are they, but if you don't I  want you to take a deep look at this
 article from Wikipedia :
 
-``<a href = "https://en.wikipedia.org/wiki/Logic_gate target = "_blank"/>``
+``[wikipedia](https://en.wikipedia.org/wiki/Logic_gate target)``
 
 well as you noticed  In **xor** operation, the output is true when the inputs differ. In other words, **xor** operation means either one but not both or none.
 
