@@ -17,7 +17,7 @@ there are a lot of cryptography algorithms you can use to make ransomware but I'
 I'll assume that you have a background about Logic gates and what are they, but if you don't I  want you to take a deep look at this
 article from Wikipedia :
 
-https://en.wikipedia.org/wiki/Logic_gate - automatic!
+https://en.wikipedia.org/wiki/Logic_gate
 
 well as you noticed  In **xor** operation, the output is true when the inputs differ. In other words, **xor** operation means either one but not both or none.
 
@@ -61,6 +61,6 @@ def encrypt(self , f) :
 
 the first line I will talk about is the operation of reading the file we want to encrypt in binary mode and declare a variable where we will put the binary data as a list using the built-in function _bytearray()_, I found this article useful for those who want to understand how does the *bytearray()* work :
 
-https://www.geeksforgeeks.org/python-bytearray-function/ - automatic!
+https://www.geeksforgeeks.org/python-bytearray-function/
 
 after that, there is a for loop to edit the list by performing **xor** operation for each element in the list with the given key and finally rewrite the file we have opened previously with the new encrypted data.
