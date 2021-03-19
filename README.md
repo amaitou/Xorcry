@@ -38,7 +38,7 @@ Below you can find the principles of **xor** (^ denotes the **xor** operation):
 
 before covering the code explaining, I'll assume again that you have the basics of the programming language Python in order to understand The rest of the code because I will cover only the most important function which is :
 
-```
+```python
 def encrypt(self , f) :
 
 		''' If the file's extension is one of the list declared above then start XoRing '''
