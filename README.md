@@ -65,14 +65,14 @@ https://www.geeksforgeeks.org/python-bytearray-function/
 
 after that, there is a for loop to edit the list by performing **xor** operation for each element in the list with the given key and finally rewrite the file we have opened previously with the new encrypted data.
 
-# Contct me
+## Contact Me
 
 For Any Questions You Can Find Me on This Platforms :
 
-Facebook : https://www.facebook.com/Lelouche01/ <br />
-Instagram : https://www.instagram.com/lelouchee01/ <br />
-Twitter : https://twitter.com/Lelouche01 <br />
-Github : https://github.com/Lelouche01 <br />
+* Facebook : https://www.facebook.com/Lelouche01/
+* Instagram : https://www.instagram.com/lelouchee01/
+* Twitter : https://twitter.com/Lelouche01
+* Github : https://github.com/Lelouche01
 
 # Disclaimer
 This program must be used for legal purposes! I am not responsible for anything you do with it.
