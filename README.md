@@ -26,7 +26,7 @@ Below you can find the principles of **xor** (^ denotes the **xor** operation):
 ```
 0 ^ 0 = 0
 0 ^ 1 = 1
-1 ^ 1 = 1
+1 ^ 0 = 1
 1 ^ 1 = 0
 ```
 
