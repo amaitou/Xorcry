@@ -69,8 +69,11 @@ after that, there is a for loop to edit the list by performing **xor** operation
 
 For Any Questions You Can Find Me on This Platforms :
 
-* Twitter  : https://twitter.com/amait0u
-* Instagram : https://www.instagram.com/amait0u
+* [Twitter][_1]
+* [Instagram][_2]
+
+[_1]: https://twitter.com/amait0u
+[_2]: https://www.instagram.com/amait0u
 
 # Disclaimer
 This program must be used for legal purposes! I am not responsible for anything you do with it.
