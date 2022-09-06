@@ -1,3 +1,7 @@
+------------------
+![maxresdefault](https://user-images.githubusercontent.com/49293816/188544424-4b56d278-b797-42bc-87e1-60c4adfdd1b9.jpg)
+
+------------------
 # Xorcry
 
 Xorcry is an open-source ransomware written in python3 to explain how actually a ransomware or a crypter with a given cryptography algorithm do works.
