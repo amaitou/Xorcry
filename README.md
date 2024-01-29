@@ -6,6 +6,12 @@
 
 Xorcry is an open-source ransomware written in python3 to explain how actually a ransomware or a crypter with a given cryptography algorithm do works.
 
+Before using this script, specify the path that you want to encrypt
+
+```python
+self.path = "<your specific path>"
+```
+
 # Why?
 
 as a curious person, I really love to understand how things get to work deeply, and one of the questions that I've been asking for a long time was how does the ransomware work? after a lot of disappointing research to give my question a clear answer, I started diving into cryptography algorithms and malware understanding, so without any further ado let's leave this boring introduction aside a bit and go with the cool part.
