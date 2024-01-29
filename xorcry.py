@@ -12,7 +12,7 @@ class crypter() :
 			Note : can be changed
 		'''
 
-		self.path = "/root/Desktop/Test/python/p/"
+		self.path = "."
 
 		''' List of extensions '''
 
