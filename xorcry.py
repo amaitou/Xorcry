@@ -12,7 +12,7 @@ class crypter() :
 			Note : can be changed
 		'''
 
-		self.path = "."
+		self.path = "<your specific path>"
 
 		''' List of extensions '''
 
